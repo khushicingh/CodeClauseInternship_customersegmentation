@@ -1,4 +1,4 @@
-# CodeClauseInternship_customersegmentation
+# customersegmentation
 This repository contains a python code for a Customer Segmentation Tool that allows users to input customer data, perform clustering using K-Means, and visualize the results. The tool also supports saving and loading data to and from a SQLite database, as well as saving and loading data from CSV files.
 
 Interactive User Interface: Input customer data using ipywidgets.
